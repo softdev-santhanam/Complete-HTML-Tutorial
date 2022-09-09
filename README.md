@@ -1,2 +1,2 @@
-# C-omplete-HTML-Tutorial
+# Complete-HTML-Tutorial
 To help new students pick up HTML quickly, I created a project in it. 
